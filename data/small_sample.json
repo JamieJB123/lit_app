@@ -1,0 +1,366 @@
+[
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "year": 1922,
+        "genres": [
+        "modernist novel",
+        "literary fiction"
+        ],
+        "themes_motifs": [
+        "existentialism",
+        "alienation",
+        "identity",
+        "memory",
+        "the mundane vs. the epic",
+        "the search for meaning"
+        ],
+        "character_types": [
+        "everyman",
+        "tragic hero",
+        "outsider",
+        "unreliable narrator"
+        ],
+        "writing_styles": [
+        "maximalist",
+        "stream-of-consciousness",
+        "lyrical",
+        "experimental"
+        ],
+        "form": "novel",
+        "narrative_structure": [
+        "stream-of-consciousness",
+        "fragmented",
+        "multi-perspective"
+        ],
+        "philosophical_outlooks": [
+        "existentialist",
+        "nihilist",
+        "modernist"
+        ],
+        "social_contexts": [
+        "class struggle",
+        "gender roles",
+        "Irish nationalism"
+        ],
+        "historical_contexts": [
+        "early 20th century",
+        "post-World War I",
+        "Irish independence movement"
+        ],
+        "literary_context": [
+        "modernism"
+        ],
+        "main_locations": [
+        "Dublin, Ireland"
+        ],
+        "time_period": "June 16, 1904",
+        "geographic_scope": "local",
+        "tones": [
+        "ironic",
+        "satirical",
+        "tragic"
+        ],
+        "moods": [
+        "nostalgic",
+        "bleak",
+        "reflective"
+        ],
+        "author_nationality": "Irish",
+        "author_period": "modernist",
+        "literary_significance": [
+        "canonical",
+        "experimental",
+        "cult classic"
+        ],
+        "critical_reception": "widely acclaimed, controversial at the time of publication",
+        "difficulty_level": "highly experimental",
+        "cross_domain_influences": [
+        "philosophy",
+        "psychoanalysis",
+        "politics",
+        "literary theory"
+        ],
+        "influenced_books": [
+        "The Sound and the Fury by William Faulkner",
+        "The Waves by Virginia Woolf",
+        "Gravity's Rainbow by Thomas Pynchon"
+        ],
+        "influences_on_book": [
+        "Homer's Odyssey",
+        "Dante's Divine Comedy",
+        "French Symbolism"
+        ],
+        "other_notes": "Ulysses is often celebrated for its innovative narrative techniques and deep exploration of the human experience, making it a cornerstone of modernist literature."
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genres": [
+        "modernist novel",
+        "tragedy",
+        "social commentary"
+        ],
+        "themes_motifs": [
+        "the American Dream",
+        "class struggle",
+        "love and loss",
+        "identity",
+        "disillusionment",
+        "moral decay",
+        "nostalgia"
+        ],
+        "character_types": [
+        "tragic hero",
+        "outsider",
+        "unreliable narrator",
+        "romantic idealist"
+        ],
+        "writing_styles": [
+        "lyrical",
+        "maximalist",
+        "symbolic"
+        ],
+        "form": "novel",
+        "narrative_structure": [
+        "linear",
+        "first-person perspective"
+        ],
+        "philosophical_outlooks": [
+        "existentialist",
+        "nihilist"
+        ],
+        "social_contexts": [
+        "class disparity",
+        "gender roles",
+        "the Jazz Age"
+        ],
+        "historical_contexts": [
+        "post-World War I America",
+        "the Roaring Twenties"
+        ],
+        "literary_context": [
+        "modernism",
+        "the Lost Generation"
+        ],
+        "main_locations": [
+        "West Egg",
+        "East Egg",
+        "New York City",
+        "the Valley of Ashes"
+        ],
+        "time_period": "1920s",
+        "geographic_scope": "national",
+        "tones": [
+        "ironic",
+        "tragic",
+        "satirical"
+        ],
+        "moods": [
+        "nostalgic",
+        "bleak",
+        "eerie"
+        ],
+        "author_nationality": "American",
+        "author_period": "modernist",
+        "literary_significance": [
+        "canonical",
+        "cult classic",
+        "foundational text of American literature"
+        ],
+        "critical_reception": "widely acclaimed, initially met with mixed reviews but later recognized as a masterpiece",
+        "difficulty_level": "moderately challenging",
+        "cross_domain_influences": [
+        "psychology",
+        "sociology",
+        "politics"
+        ],
+        "influenced_books": [
+        "The Catcher in the Rye by J.D. Salinger",
+        "The Bell Jar by Sylvia Plath"
+        ],
+        "influences_on_book": [
+        "Henry James",
+        "Joseph Conrad",
+        "the American literary tradition"
+        ],
+        "other_notes": "The novel is often regarded as a critical exploration of the American Dream and its disillusionment, reflecting the social and moral upheaval of the 1920s."
+    },
+    {
+        "title": "Mrs Dalloway",
+        "author": "Virginia Woolf",
+        "year": 1925,
+        "genres": [
+        "modernist novel",
+        "literary fiction"
+        ],
+        "themes_motifs": [
+        "existentialism",
+        "memory",
+        "time",
+        "alienation",
+        "mental illness",
+        "social class",
+        "gender roles"
+        ],
+        "character_types": [
+        "tragic hero",
+        "outsider",
+        "unreliable narrator"
+        ],
+        "writing_styles": [
+        "stream-of-consciousness",
+        "lyrical",
+        "maximalist"
+        ],
+        "form": "novel",
+        "narrative_structure": [
+        "stream-of-consciousness",
+        "multi-perspective"
+        ],
+        "philosophical_outlooks": [
+        "existentialist",
+        "feminist"
+        ],
+        "social_contexts": [
+        "gender roles",
+        "class struggle",
+        "mental health"
+        ],
+        "historical_contexts": [
+        "post-World War I",
+        "early 20th century"
+        ],
+        "literary_context": [
+        "modernism"
+        ],
+        "main_locations": [
+        "London"
+        ],
+        "time_period": "1923",
+        "geographic_scope": "national",
+        "tones": [
+        "ironic",
+        "nostalgic",
+        "reflective"
+        ],
+        "moods": [
+        "bleak",
+        "uplifting",
+        "eerie"
+        ],
+        "author_nationality": "British",
+        "author_period": "modernist",
+        "literary_significance": [
+        "canonical",
+        "experimental"
+        ],
+        "critical_reception": "widely acclaimed",
+        "difficulty_level": "moderately challenging",
+        "cross_domain_influences": [
+        "psychoanalysis",
+        "philosophy",
+        "feminism"
+        ],
+        "influenced_books": [
+        "The Hours by Michael Cunningham",
+        "To the Lighthouse by Virginia Woolf"
+        ],
+        "influences_on_book": [
+        "James Joyce's Ulysses",
+        "Henry James's The Portrait of a Lady"
+        ],
+        "other_notes": "Mrs. Dalloway is notable for its exploration of the inner lives of its characters and the use of time as a narrative device."
+    },
+    {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "year": 1927,
+        "genres": [
+        "modernist novel",
+        "literary fiction"
+        ],
+        "themes_motifs": [
+        "memory",
+        "time",
+        "existentialism",
+        "the passage of time",
+        "gender roles",
+        "art and creativity"
+        ],
+        "character_types": [
+        "tragic hero",
+        "outsider",
+        "unreliable narrator"
+        ],
+        "writing_styles": [
+        "lyrical",
+        "stream-of-consciousness",
+        "maximalist"
+        ],
+        "form": "novel",
+        "narrative_structure": [
+        "stream-of-consciousness",
+        "multi-perspective",
+        "fragmented"
+        ],
+        "philosophical_outlooks": [
+        "existentialist",
+        "feminist"
+        ],
+        "social_contexts": [
+        "gender roles",
+        "class dynamics",
+        "family relationships"
+        ],
+        "historical_contexts": [
+        "post-World War I",
+        "early 20th century"
+        ],
+        "literary_context": [
+        "modernism"
+        ],
+        "main_locations": [
+        "Isle of Skye",
+        "the Ramsay family home",
+        "the lighthouse"
+        ],
+        "time_period": "early 20th century",
+        "geographic_scope": "local",
+        "tones": [
+        "reflective",
+        "nostalgic",
+        "introspective"
+        ],
+        "moods": [
+        "melancholic",
+        "uplifting",
+        "eerie"
+        ],
+        "author_nationality": "British",
+        "author_period": "modernist",
+        "literary_significance": [
+        "canonical",
+        "experimental"
+        ],
+        "critical_reception": "widely acclaimed",
+        "difficulty_level": "moderately challenging",
+        "cross_domain_influences": [
+        "philosophy",
+        "psychology",
+        "feminism"
+        ],
+        "influenced_books": [
+        "The Waves by Virginia Woolf",
+        "Mrs. Dalloway by Virginia Woolf",
+        "The Hours by Michael Cunningham"
+        ],
+        "influences_on_book": [
+        "James Joyce's Ulysses",
+        "Henry James's narrative techniques",
+        "Impressionist art"
+        ],
+        "other_notes": "The novel is divided into three parts, exploring the inner thoughts of its characters and their relationships, particularly focusing on the Ramsay family and their guests."
+    }
+]
