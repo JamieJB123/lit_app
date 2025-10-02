@@ -90,16 +90,17 @@ def add_book_to_graph(book: Dict):
 
     for attr in BOOK_ATTRIBUTE_TYPES_SINGLE_VAL:
         value = book.get(attr)
-        label = SINGLE_VAL_LABEL_MAP.get(attr, attr.capitalize())
-        print(value, label)
+        if value:
+            label = SINGLE_VAL_LABEL_MAP.get(attr, attr.capitalize())
+            print(value, label)
 
-        attr_node = Node(label, name=value)
-        print(attr_node)
-        graph.merge(attr_node, label, "name")
+            attr_node = Node(label, name=value)
+            print(attr_node)
+            graph.merge(attr_node, label, "name")
 
-        rel_2 = Relationship(book_node, f"HAS_{label.upper()}", attr_node)
-        print(rel_2)
-        graph.merge(rel_2)
+            rel_2 = Relationship(book_node, f"HAS_{label.upper()}", attr_node)
+            print(rel_2)
+            graph.merge(rel_2)
 
 
 

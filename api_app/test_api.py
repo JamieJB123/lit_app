@@ -3,9 +3,10 @@ import requests
 response = requests.post("http://127.0.0.1:8000/books/by_attributes",
     json = {
         "attributes": {
-            "Genre": "social commentary",
+            "Genre": "literary fiction",
             "Theme": ["alienation"],
-            "CharacterArchetype": "outsider"
+            "NarrativeStructure": "fragmented",
+            "Tone": "ironic"
         }
     }
 )

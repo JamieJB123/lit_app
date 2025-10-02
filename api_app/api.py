@@ -55,6 +55,7 @@ def get_books_by_attribute(req: AttributeRequest):
         RETURN DISTINCT b.title AS title, b.author AS author, b.year AS year, id(b) AS id
     """
     try:
+        print(cypher)
         results = graph.run(cypher, **params).data()
         return results
     except Exception as e:
